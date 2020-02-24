@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <button bindtap='navigate1'>点击测试</button>
+</view>
